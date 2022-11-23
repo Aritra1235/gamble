@@ -98,9 +98,9 @@ if (number2 == 1) {
   return (
     <div>
       
-      <img class='number1' src={number1} style={{ width: 256, height: 256 }}/>
-      <img class='number2' src={number2} style={{ width: 256, height: 256 }}/>
-      <img class='number3' src={number3} style={{ width: 256, height: 256 }}/>
+      <img class='image1' src={number1} style={{ width: 320, height: 320 }}/>
+      <img class='image2' src={number2} style={{ width: 320, height: 320 }}/>
+      <img class='image3' src={number3} style={{ width: 320, height: 320 }}/>
     </div>
   );
 }

@@ -1,3 +1,20 @@
 body{
-  background: #000;
+  background: rgb(0, 0, 0);
+}
+
+.image1 {
+  padding-top: 12.5%;
+  padding-left: 12.5%;
+}
+
+.image2 {
+  padding-top: 12.5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.image3 {
+  padding-top: 12.5%;
+  padding-right: 10%;
+
 }
